@@ -2,7 +2,7 @@
 using System;
 using UnityEngine;
 
-public class WAW : MonoBehaviour
+public class fpscontrollertousk : MonoBehaviour
 {
 
     public void mousSunsitivity()
